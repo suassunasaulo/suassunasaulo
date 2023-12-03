@@ -18,10 +18,6 @@ Estudante no 5º período de Ciências da Computação do Centro Universitário 
 - Pensamento crítico
 - Resiliente
 
-## Experiência Profissional
-### Inside Technology - Estagiário de Banco de Dados (Março de 2023 - Atualmente)
-- Manipulação do banco de dados Oracle para um escritório de advocacia, incluindo inserção, atualização, exclusão e consulta de informações.
-- Prestação de suporte ao escritório de advocacia para garantir que as informações no banco de dados estejam atualizadas e precisas.
 
 ### Meu Perfil no GitHub
 
