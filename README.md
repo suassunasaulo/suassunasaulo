@@ -1,7 +1,7 @@
 # Olá, eu sou Saulo Suassuna⚡
 
 ## Sobre mim
-Estudante no 5º período de Ciências da Computação do Centro Universitário IBMR-RJ. Atualmente estou me desenvolvendo para me tornar um desenvolvedor Front-End. Então, coloco em destaque o repositório "ESTUDOS-FRONT-END". Nesse repositório estão meus exercícios práticos.
+Estudante no 8º período de Ciências da Computação do Centro Universitário IBMR-RJ. Atualmente estou me desenvolvendo para me tornar um desenvolvedor Front-End. Então, coloco em destaque o repositório "ESTUDOS-FRONT-END". Nesse repositório estão meus exercícios práticos.
 
 ## Habilidades
 [![HTML5](https://img.shields.io/badge/HTML5-Intermediário-E34F26?style=for-the-badge&logo=html5&logoColor=white)](link_para_o_seu_projeto_ou_portfólio)
