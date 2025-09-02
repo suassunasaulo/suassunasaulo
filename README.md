@@ -12,7 +12,7 @@ O repositório com os exercícios e projetos desenvolvidos durante o curso é o 
 
 ## 🛠️ Habilidades Técnicas  
 [![Java](https://img.shields.io/badge/Java-Em%20Aprendizado-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
-[![SQL](https://img.shields.io/badge/SQL-Intermediário-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/SQL-Básico-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![Excel](https://img.shields.io/badge/Excel-Intermediário-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-Básico-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Inglês](https://img.shields.io/badge/Inglês-Intermediário-007396?style=for-the-badge&logo=google-translate&logoColor=white)]()
